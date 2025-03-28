@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how we removed the "Next Post" option from ProfferSquare, our WordPress-based website. This was necessary to enhance user experience by eliminating unwanted post navigation links.
+This guide explains how I removed the "Next Post" option from ProfferSquare, our WordPress-based website. This was necessary to enhance user experience by eliminating unwanted post navigation links.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Before proceeding, ensure you have:
 
 ## Method 1: Removing "Next Post" Link via `functions.php`
 
-At ProfferSquare, we modified the `functions.php` file to disable adjacent post navigation links.
+At ProfferSquare, I modified the `functions.php` file to disable adjacent post navigation links.
 
 ### Steps:
 
@@ -64,7 +64,7 @@ The navigation links are hidden from the frontend, ensuring a cleaner user exper
 
 ## Testing and Verification
 
-After implementing these changes on ProfferSquare, we tested the following:
+After implementing these changes on ProfferSquare, I tested the following:
 
 * Opened a blog post on the site.
 * Scrolled to the bottom to confirm the "Next Post" option was removed.
@@ -73,8 +73,6 @@ After implementing these changes on ProfferSquare, we tested the following:
 
 ## Conclusion
 
-By following these steps, we successfully removed the "Next Post" option from ProfferSquare, enhancing the site's navigation and readability. If you ever need to restore it, simply revert the changes made in `functions.php` and CSS.
-
-For further assistance, feel free to reach out!
+By following these steps, I successfully removed the "Next Post" option from ProfferSquare, enhancing the site's navigation and readability. If you ever need to restore it, simply revert the changes made in `functions.php` and CSS.
 
 Optimizing ProfferSquare, one step at a time! 
