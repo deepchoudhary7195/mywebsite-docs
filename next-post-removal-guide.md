@@ -1,4 +1,4 @@
-# Removing the "Next Post" Option on ProfferSquare
+# Removing the "Next Post" Option on Proffersquare
 
 ## Overview
 
@@ -77,4 +77,4 @@ By following these steps, we successfully removed the "Next Post" option from Pr
 
 For further assistance, feel free to reach out!
 
-Optimizing ProfferSquare, one step at a time! 🚀
+Optimizing ProfferSquare, one step at a time! 
