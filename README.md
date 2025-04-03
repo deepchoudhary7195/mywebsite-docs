@@ -6,5 +6,5 @@ You'll find detailed insights into ProfferSquare’s system architecture, conten
 
 ## Documentation Index  
 
-- [Removing the "Next Post" Option on ProfferSquare](mywebsite-docs/remove-next-post-navigation.md)  
-- [How To Find All Pages on ProfferSquare (WordPress Site)](mywebsite-docs/remove-next-post-navigation.md)  
+- [Removing the "Next Post" Option on ProfferSquare](/mywebsite-docs/list-wordpress-pages/)  
+- [How To Find All Pages on ProfferSquare (WordPress Site)](/mywebsite-docs/remove-next-post-navigation/)  
